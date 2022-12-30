@@ -1,0 +1,6 @@
+title: Midnight theme
+description: Midnight is a theme for GitHub Pages.
+show_downloads: true
+theme: jekyll-theme-midnight
+mermaid:
+  src: "https://unpkg.com/mermaid@9.3.0/dist/mermaid.min.js"
