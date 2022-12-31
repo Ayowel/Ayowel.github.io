@@ -82,6 +82,14 @@ strong {
   padding: 0 20px;
 }
 
+.footnotes::before {
+  content: "Footnotes:";
+}
+
+.footnotes {
+  margin-top: 3em;
+}
+
 section img {
   max-width: 100%;
 }
@@ -212,12 +220,30 @@ dt {
 
         &.fork {
           float: left;
-          margin-left: 0px;
+          a {
+            margin-right: 0.8em;
+            font-weight: bold;
+          }
         }
 
         &.downloads {
           float: right;
-          margin-left: 6px;
+          margin-left: 0.8em;
+          a {
+            font-weight: bold;
+          }
+        }
+
+        &.itch a {
+          border: 1px solid #8f8f8f;
+          background: linear-gradient(#bebebe, #9c9c9c);
+          background-color: #bdbdbd;
+        }
+
+        &.github a {
+          border: 1px solid #0b915d;
+          background: linear-gradient(#20bd93, #109e65);
+          background-color: #20bd93;
         }
 
         &.title {
@@ -232,7 +258,7 @@ dt {
 
 section {
   max-width:650px;
-  padding: 30px 0px 50px 0px;
+  padding: 30px 0px 0px 0px;
   margin: 20px 0;
   margin-top: 70px;
 
@@ -277,7 +303,7 @@ section {
   }
 }
 
-@media print, screen and (max-width: 720px) {
+@media print, screen and (max-width: 300px) {
 
   #title {
     .credits {
@@ -296,19 +322,5 @@ section {
         display: block;
       }
     }
-  }
-}
-
-@media print, screen and (max-width: 480px) {
-
-  #header {
-    margin-top: -20px;
-  }
-
-  section {
-    margin-top: 40px;
-  }
-  nav {
-    display: none;
   }
 }

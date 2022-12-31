@@ -1,6 +1,11 @@
-title: Midnight theme
-description: Midnight is a theme for GitHub Pages.
+title: The coal mine
+description: A personal blog for devtime stories.
+author: Ayowel
 show_downloads: true
 theme: jekyll-theme-midnight
+plugins:
+  - jekyll-feed
+socials:
+  itch: ayowel
 mermaid:
   src: "https://unpkg.com/mermaid@9.3.0/dist/mermaid.min.js"
