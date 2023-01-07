@@ -11,7 +11,7 @@ permalink: /projects/godot
 <dyntable>
     <cell>
         <a href="https://kiminako.itch.io/santa-pumpkin"><heading>Santa Pumpkin</heading></a>
-        The first Godot game I worked on. All development and animations mine.
+        The first Godot game I worked on. All developments and animations are mine.
         <img title="Santa pumpkin thumbnail" src="https://img.itch.zone/aW1nLzEwODQzNDAzLnBuZw==/315x250%23c/05c1LQ.png" />
     </cell>
 </dyntable>
