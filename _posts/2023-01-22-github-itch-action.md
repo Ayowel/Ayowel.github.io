@@ -273,7 +273,7 @@ stateDiagram
 
 ## Results
 
-[This new action](https://github.com/marketplace/actions/butler-to-itch) allowed me to drastically reduce the configuration required to push multiple files to itch. The twenty-seven lines required to push a file have now become height and does not need to change for most file patterns or when adding release targets. At the same time, the overall time it takes to initialize the step and push all files is now 17 seconds (from 43 seconds) for the same action, mostly thanks to the fact that the action does not waste 20+ seconds at the start of the job to create its docker image.
+[This new action](https://github.com/marketplace/actions/butler-to-itch) allowed me to drastically reduce the configuration required to push multiple files to itch. The twenty-seven lines required to push three files have now become height and does not need to change for most projects or when adding release targets. At the same time, the overall time it takes to initialize the step and push all files is now 17 seconds (from 43 seconds) for the same action, mostly thanks to the fact that the action does not waste 20+ seconds at the start of the job to create its docker image.
 
 {% raw %}
 ```yml
