@@ -197,12 +197,12 @@ dt {
 
         a {
           color: white;
-          border: 1px solid #5d910b;
-          background: linear-gradient(#93bd20, #659e10);
+          border: 1px solid rgb(124, 194, 15);
+          background: linear-gradient(rgb(118, 151, 26), rgb(81, 126, 13));
           border-radius: 2px;
           box-shadow: inset 0px 1px 0px rgba(255,255,255,.3), 0px 3px 7px rgba(0,0,0,.7);
 
-          background-color: #93bd20;
+          background-color: rgb(118, 151, 26);
           padding: 10px 12px;
           margin-top: 6px;
           line-height:14px;
@@ -235,15 +235,15 @@ dt {
         }
 
         &.itch a {
-          border: 1px solid #8f8f8f;
-          background: linear-gradient(#bebebe, #9c9c9c);
-          background-color: #bdbdbd;
+          border-color: rgb(80, 86, 90);
+          background-image: linear-gradient(rgb(61, 66, 68), rgb(80, 87, 90));
+          background-color: rgb(61, 66, 69);
         }
 
         &.github a {
-          border: 1px solid #0b915d;
-          background: linear-gradient(#20bd93, #109e65);
-          background-color: #20bd93;
+          border-color: rgb(15, 194, 124);
+          background-image: linear-gradient(rgb(26, 151, 118), rgb(13, 126, 81));
+          background-color: rgb(26, 151, 118);
         }
 
         &.title {
