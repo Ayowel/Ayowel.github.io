@@ -18,6 +18,7 @@ Take a look at my GitHub actions [on the marketplace](https://github.com/marketp
     </cell><cell>
         <a href="https://github.com/Ayowel/butler-to-itch" target="_blank"><heading>Butler to Itch</heading></a>
         Push release files to Itch in batch.
+        <a href="{% post_url 2023-01-22-github-itch-action %}">Learn why I built it on the blog</a>
         <div class="icon-github" style="background-color: green;">
             <img title="Upload icon" src="{{ "/assets/images/logos/actions/upload.svg" | prepend: site.baseurl | prepend: site.url }}">
         </div>

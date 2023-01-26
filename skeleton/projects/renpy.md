@@ -20,6 +20,7 @@ permalink: /projects/renpy
     </cell><cell>
         <a href="https://ayowel.itch.io/renpy-extensions-demo" target="_blank"><heading>Ren'Py extensions demo</heading></a>
         Technical demo/tutorial 'game' for the implementation of extensions with Ren'Py.
+        <a href="{% post_url 2023-01-08-renpy-extension-creation %}">Click here for the blog post version</a>
         <img title="Ren'Py extensions demo thumbnail" src="https://img.itch.zone/aW1nLzEwNDA1Mjc1LnBuZw==/315x250%23c/siBmag.png" />
     </cell>
 </dyntable>
@@ -29,8 +30,8 @@ permalink: /projects/renpy
 <dyntable>
     <cell>
         <a href="https://ayowel.github.io/spirited/" target="_blank"><heading>Spirited</heading></a>
-        Sprite manager used to easily produce 'advanced' visual effects in Ren'Py.<br />
-        See the documentation for visuals and more information.
+        Sprite manager used to easily produce 'advanced' visual effects in Ren'Py (follow the link for documentation and visuals).
+        <a href="{% post_url 2023-01-15-renpy-demotools %}">Learn how the documentation and its visuals are generated.</a>
     </cell><cell>
         <a href="https://github.com/Ayowel/renpy-demotools" target="_blank"><heading>Demotools</heading></a>
         Command-line-based extension used to automate sequences display and screen captures. Used to automatically update the gifs visible in Spirited's documentation at release-time.
