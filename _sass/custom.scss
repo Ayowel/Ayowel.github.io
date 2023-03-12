@@ -47,3 +47,6 @@ dyntable {
     display: flex;
     justify-content: center;
 }
+code.language-plaintext {
+    background: rgba($color: yellow, $alpha: 0.13);
+}
