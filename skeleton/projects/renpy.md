@@ -25,6 +25,16 @@ permalink: /projects/renpy
     </cell>
 </dyntable>
 
+## Miscellaneous Ren'Py-related projects
+
+<dyntable>
+    <cell>
+        <a href="http://ayowel.github.io/renpy-training-presentation/" target="_blank"><heading>Tutoriel Ren'Py</heading></a>
+        Supporting slides for a short workshop on Ren'Py presented in french.
+        <a href="https://github.com/ayowel/renpy-training-presentation/" target="_blank">The repository is available here</a>
+    </cell>
+</dyntable>
+
 ## Ren'Py extensions
 
 <dyntable>
