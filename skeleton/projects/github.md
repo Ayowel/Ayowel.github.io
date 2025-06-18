@@ -22,5 +22,11 @@ Take a look at my GitHub actions [on the marketplace](https://github.com/marketp
         <div class="icon-github" style="background-color: green;">
             <img title="Upload icon" src="{{ "/assets/images/logos/actions/upload.svg" | prepend: site.baseurl | prepend: site.url }}">
         </div>
+    </cell><cell>
+        <a href="https://github.com/Ayowel/download-release-assets" target="_blank"><heading>Get release assets</heading></a>
+        Download GitHub release assets on GitHub.com and on self-hosted instances.
+        <div class="icon-github" style="background-color: purple;">
+            <img title="Upload icon" src="{{ "/assets/images/logos/actions/download.svg" | prepend: site.baseurl | prepend: site.url }}">
+        </div>
     </cell>
 </dyntable>
