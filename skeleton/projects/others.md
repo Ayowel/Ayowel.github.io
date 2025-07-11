@@ -25,5 +25,9 @@ permalink: /projects/others
         <a href="https://github.com/Ayowel/rpm-manager" target="_blank"><heading>RPM-manager</heading></a>
         A RPM files downloader with full dependency resolution and source repository separation. <br />
         <img title="DNF logo" src="{{ "/assets/images/logos/dnf.svg" | prepend: site.baseurl | prepend: site.url }}">
+    </cell><cell>
+        <a href="https://github.com/Ayowel/eos-sdk-json" target="_blank"><heading>EOS SDK Json</heading></a>
+        A generator of specification files for the Epic Games EOS SDK C API to ease the production of API bindings. <br />
+        <img title="EOS SDK json logo" src="{{ "/assets/images/logos/eos.svg" | prepend: site.baseurl | prepend: site.url }}">
     </cell>
 </dyntable>

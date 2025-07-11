@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="300mm"
+   height="300mm"
+   viewBox="0 0 300 300"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="eos.svg"
+   inkscape:version="1.4.2 (1:1.4.2+202505120738+ebf0e940d0)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.50576304"
+     inkscape:cx="248.13992"
+     inkscape:cy="758.26023"
+     inkscape:window-width="1850"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2" />
+  <defs
+     id="defs1">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,12.350228,0,1 @ F,0,0,1,0,6.6832004,0,1 @ F,0,0,1,0,10.355734,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Background">
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:7.937;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 202.08676,61.466899 32.93116,82.327901 a 16.708001,16.708001 90 0 1 0,12.4104 l -33.6719,84.17974 A 15.29576,15.29576 145.9007 0 1 187.14427,250 H 62.5 V 50 h 122.64977 a 18.241694,18.241694 34.099295 0 1 16.93699,11.466899 z"
+       id="path4"
+       sodipodi:nodetypes="cccccc"
+       inkscape:path-effect="#path-effect1"
+       inkscape:original-d="m 197.5,50 40,100 -40,100 H 62.5 V 50 Z"
+       inkscape:label="logo" />
+  </g>
+  <g
+     inkscape:label="Text"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       inkscape:groupmode="layer"
+       id="layer4"
+       inkscape:label="json">
+      <text
+         xml:space="preserve"
+         style="font-size:37.0417px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#252525;stroke:none;stroke-width:7.9375;stroke-opacity:1;paint-order:stroke markers fill;fill-opacity:1"
+         x="190.94498"
+         y="198.26891"
+         id="text10"
+         inkscape:label="n"><tspan
+           sodipodi:role="line"
+           id="tspan10"
+           style="font-size:37.0417px;stroke-width:7.9375;fill:#252525;fill-opacity:1"
+           x="190.94498"
+           y="198.26891">N</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:37.0417px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#252525;stroke:none;stroke-width:7.9375;stroke-opacity:1;paint-order:stroke markers fill;fill-opacity:1"
+         x="155.89481"
+         y="209.25478"
+         id="text9"
+         inkscape:label="o"><tspan
+           sodipodi:role="line"
+           id="tspan9"
+           style="font-size:37.0417px;stroke-width:7.9375;fill:#252525;fill-opacity:1"
+           x="155.89481"
+           y="209.25478">O</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:37.0417px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#252525;stroke:none;stroke-width:7.9375;stroke-opacity:1;paint-order:stroke markers fill;fill-opacity:1"
+         x="118.7521"
+         y="217.10184"
+         id="text8"
+         inkscape:label="s"><tspan
+           sodipodi:role="line"
+           id="tspan8"
+           style="font-size:37.0417px;stroke-width:7.9375;fill:#252525;fill-opacity:1"
+           x="118.7521"
+           y="217.10184">S</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:37.0417px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#252525;stroke:none;stroke-width:7.9375;stroke-opacity:1;paint-order:stroke markers fill;fill-opacity:1"
+         x="88.410141"
+         y="222.85632"
+         id="text7"
+         inkscape:label="j"><tspan
+           sodipodi:role="line"
+           id="tspan7"
+           style="font-size:37.0417px;stroke-width:7.9375;fill:#252525;fill-opacity:1"
+           x="88.410141"
+           y="222.85632">J</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:24.6944px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#252525;stroke:none;stroke-width:7.9375;stroke-opacity:1;paint-order:stroke markers fill;fill-opacity:1"
+       x="147.64629"
+       y="156.76245"
+       id="text6"
+       inkscape:label="specification"><tspan
+         sodipodi:role="line"
+         id="tspan6"
+         style="font-size:24.6944px;stroke-width:7.9375;fill:#252525;fill-opacity:1"
+         x="147.64629"
+         y="156.76245">Specification</tspan></text>
+    <g
+       inkscape:groupmode="layer"
+       id="layer3"
+       inkscape:label="EOS SDK">
+      <text
+         xml:space="preserve"
+         style="font-size:31.75px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#252525;stroke:none;stroke-width:7.9375;stroke-opacity:1;paint-order:stroke markers fill;fill-opacity:1"
+         x="182.86656"
+         y="127.15988"
+         id="text2"
+         inkscape:label="dk"><tspan
+           sodipodi:role="line"
+           id="tspan1"
+           style="font-size:31.75px;stroke-width:7.9375;fill:#252525;fill-opacity:1"
+           x="182.86656"
+           y="127.15988">DK</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:63.5px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#252525;stroke:none;stroke-width:7.9375;stroke-opacity:1;paint-order:stroke markers fill;fill-opacity:1"
+         x="142.06187"
+         y="127.12891"
+         id="text5"
+         inkscape:label="s"><tspan
+           sodipodi:role="line"
+           id="tspan5"
+           style="font-size:63.5px;stroke-width:7.9375;fill:#252525;fill-opacity:1"
+           x="142.06187"
+           y="127.12891">S</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:31.75px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#252525;stroke-width:7.9375;paint-order:stroke markers fill;fill-opacity:1"
+         x="99.409668"
+         y="103.56446"
+         id="text1"
+         inkscape:label="eo"><tspan
+           sodipodi:role="line"
+           style="font-size:31.75px;stroke-width:7.9375;fill:#252525;fill-opacity:1"
+           x="99.409668"
+           y="103.56446"
+           id="tspan2">EO</tspan></text>
+    </g>
+  </g>
+</svg>
