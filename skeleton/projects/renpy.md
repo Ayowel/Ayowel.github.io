@@ -15,7 +15,7 @@ permalink: /projects/renpy
         <img title="Colors thumbnail" src="https://img.itch.zone/aW1nLzk5NTU0NDQuanBn/315x250%23c/HFihO4.jpg" />
     </cell><cell>
         <a href="https://kiminako.itch.io/where-are-you-cinderella" target="_blank"><heading>Where are you, Cinderella?</heading></a>
-        <img title="Where are you, Cinderella? thumbnail" src="https://img.itch.zone/aW1nLzEyMDAyNjg5LnBuZw==/315x250%23c/EylwtH.png" /><br />
+        <img title="Where are you, Cinderella? thumbnail" src="https://img.itch.zone/aW1nLzIyMDgwNDAyLnBuZw==/315x250%23c/xkT%2BHZ.png" /><br />
         Code and menu fixes and advanced animations/transitions support.
     </cell><cell>
         <a href="https://ayowel.itch.io/renpy-extensions-demo" target="_blank"><heading>Ren'Py extensions demo</heading></a>
