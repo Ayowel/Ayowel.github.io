@@ -9,3 +9,79 @@ AllCops:
 
 Layout/LineLength:
   Enabled: false
+Gemspec/AttributeAssignment:
+  Enabled: true
+Layout/EmptyLinesAfterModuleInclusion:
+  Enabled: true
+Lint/ArrayLiteralInRegexp:
+  Enabled: true
+Lint/CopDirectiveSyntax:
+  Enabled: true
+Lint/DataDefineOverride:
+  Enabled: true
+Lint/DeprecatedReference:
+  Enabled: true
+Lint/NameTypo:
+  Enabled: true
+Lint/RedundantTypeConversion:
+  Enabled: true
+Lint/SuppressedExceptionInNumberConversion:
+  Enabled: true
+Lint/UnreachablePatternBranch:
+  Enabled: true
+Lint/UselessConstantScoping:
+  Enabled: true
+Lint/UselessDefaultValueArgument:
+  Enabled: true
+Lint/UselessOr:
+  Enabled: true
+Naming/PredicateMethod:
+  Enabled: true
+Style/ArrayIntersectWithSingleElement:
+  Enabled: true
+Style/CollectionQuerying:
+  Enabled: true
+Style/ComparableBetween:
+  Enabled: true
+Style/EmptyClassDefinition:
+  Enabled: true
+Style/EmptyStringInsideInterpolation:
+  Enabled: true
+Style/FileOpen:
+  Enabled: true
+Style/HashFetchChain:
+  Enabled: true
+Style/HashSlice:
+  Enabled: true
+Style/ItBlockParameter:
+  Enabled: true
+Style/MapJoin:
+  Enabled: true
+Style/ModuleMemberExistenceCheck:
+  Enabled: true
+Style/NegativeArrayIndex:
+  Enabled: true
+Style/OneClassPerFile:
+  Enabled: true
+Style/PartitionInsteadOfDoubleSelect:
+  Enabled: true
+Style/PredicateWithKind:
+  Enabled: true
+Style/ReduceToHash:
+  Enabled: true
+Style/RedundantArrayFlatten:
+  Enabled: true
+Style/RedundantFormat:
+  Enabled: true
+Style/RedundantMinMaxBy:
+  Enabled: true
+Style/ReverseFind:
+  Enabled: true
+Style/SelectByKind:
+  Enabled: true
+Style/SelectByRange:
+  Enabled: true
+Style/TallyMethod:
+  Enabled: true
+Performance/ZipWithoutBlock:
+  Enabled: true
