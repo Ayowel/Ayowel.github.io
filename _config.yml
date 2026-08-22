@@ -9,3 +9,12 @@ socials:
   itch: ayowel
 mermaid:
   src: "https://unpkg.com/mermaid@9.3.0/dist/mermaid.min.js"
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - jekyll-theme-midnight.gemspec
