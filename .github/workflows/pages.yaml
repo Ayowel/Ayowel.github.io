@@ -19,8 +19,19 @@ jobs:
           ruby-version: '4.0'
           bundler-cache: true
 
+      - name: Setup Pages
+        run: |
+          mkdir -p _data
+          cat > _data/github.yml <<EOF
+          build_revision: ${{ github.sha }}
+          owner_url: ${{ github.server_url }}/${{ github.repository_owner }}
+          owner_name: ${{ github.repository_owner }}
+          EOF
+
       - name: Build site
-        run: bundle exec jekyll build
+        run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
+        env:
+          JEKYLL_ENV: production
 
       - name: Lint gems
         run: bundle exec rubocop -D --config .rubocop.yml

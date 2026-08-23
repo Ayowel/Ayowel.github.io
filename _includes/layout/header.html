@@ -2,14 +2,14 @@
     <nav>
       <ul>
         <li class="fork">
-          <a href="{{ site.baseurl | prepend: site.url }}">Site</a>
+          <a href="{{ site.baseurl | prepend: site.url | default: '/' }}">Site</a>
           <a href="{{ '/projects' | prepend: site.baseurl | prepend: site.url }}">Projects</a>
           <a href="{{ '/blog' | prepend: site.baseurl | prepend: site.url }}">Blog</a>
         </li>
         {% if site.socials.itch %}
           <li class="downloads itch"><a href="https://{{ site.socials.itch }}.itch.io/" target="_blank">Itch.io</a></li>
         {% endif %}
-        <li class="downloads github"><a href="{{ site.github.owner_url }}" target="_blank">GitHub</a></li>
+        <li class="downloads github"><a href="{{ site.data.github.owner_url }}" target="_blank">GitHub</a></li>
       </ul>
     </nav>
 </div>

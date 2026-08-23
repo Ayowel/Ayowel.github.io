@@ -12,6 +12,16 @@ It contains blog entries and links to personal projects.
 
 ### Build the project
 
+If so desired, create a custom `data/github.yml` file (this is required for the GitHub link to work):
+
+```yml
+build_revision: rkzehj
+owner_url: https://github.com/Ayowel
+owner_name: Ayowel
+```
+
+Then, build by following those steps:
+
 * From the repository's root, run `bundle config set path '.bundle/vendor' --local`
 * From the repository's root, run `bundle install`
 * Run the server on port 4000 with `bundle exec jekyll serve`
